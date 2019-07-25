@@ -1,1 +1,1 @@
-# Go-exercise
+# Go-exercise basic
